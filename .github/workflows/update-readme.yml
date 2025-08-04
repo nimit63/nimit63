@@ -1,5 +1,6 @@
 name: Update Profile
-
+permissions:
+  contents: write
 on:
   schedule:
     # Runs every day at 2 AM UTC
